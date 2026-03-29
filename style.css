@@ -91,7 +91,7 @@
         display: flex;
     }
 
-    video{
+    iframe{
         height: 200px;
         width: 600px;
         box-sizing: border-box;
@@ -124,3 +124,4 @@
         display: flex;
         flex-wrap: wrap;
     }
+
